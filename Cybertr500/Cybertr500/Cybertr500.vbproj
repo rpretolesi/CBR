@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{02E22905-8F98-47B2-9449-A0CE4A246134}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Cybertr500.My.MyApplication</StartupObject>
+    <RootNamespace>Cybertr500</RootNamespace>
+    <AssemblyName>PlantReport</AssemblyName>
+    <MyType>WindowsForms</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>PlantReport.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>PlantReport.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="SQL Connection Dialog, Version=1.0.2865.20557, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Librerie Comuni\SQL Connection Dialog.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="..\..\Librerie Comuni\BaseGriglia.designer.vb">
+      <DependentUpon>BaseGriglia.vb</DependentUpon>
+      <Link>BaseGriglia.designer.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\BaseGriglia.vb">
+      <SubType>Form</SubType>
+      <Link>BaseGriglia.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\CommLibr.vb">
+      <Link>CommLibr.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\BaseGrigliaConfig.designer.vb">
+      <DependentUpon>BaseGrigliaConfig.vb</DependentUpon>
+      <Link>BaseGrigliaConfig.designer.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\BaseGrigliaConfig.vb">
+      <SubType>Form</SubType>
+      <Link>BaseGrigliaConfig.vb</Link>
+    </Compile>
+    <Compile Include="DataSet_Prod500.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_Prod500.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet_RicPrdsg.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet_RicPrdsg.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="GestNomiPreDos.Designer.vb">
+      <DependentUpon>GestNomiPreDos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestNomiPreDos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestLogEventi.Designer.vb">
+      <DependentUpon>GestLogEventi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestLogEventi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestRicPreDos.Designer.vb">
+      <DependentUpon>GestRicPreDos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestRicPreDos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestJob.Designer.vb">
+      <DependentUpon>GestJob.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestJob.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestImpProd.Designer.vb">
+      <DependentUpon>GestImpProd.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestImpProd.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestImpRicPred.Designer.vb">
+      <DependentUpon>GestImpRicPred.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestImpRicPred.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GestNomiDos.Designer.vb">
+      <DependentUpon>GestNomiDos.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GestNomiDos.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\Login.designer.vb">
+      <DependentUpon>Login.vb</DependentUpon>
+      <Link>Login.designer.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\Login.vb">
+      <SubType>Form</SubType>
+      <Link>Login.vb</Link>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\StatoElab.Designer.vb">
+      <DependentUpon>StatoElab.vb</DependentUpon>
+      <Link>StatoElab.Designer.vb</Link>
+    </Compile>
+    <Compile Include="..\..\Librerie Comuni\StatoElab.vb">
+      <SubType>Form</SubType>
+      <Link>StatoElab.vb</Link>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="..\..\Librerie Comuni\BaseGriglia.resx">
+      <DependentUpon>BaseGriglia.vb</DependentUpon>
+      <SubType>Designer</SubType>
+      <Link>BaseGriglia.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Librerie Comuni\BaseGrigliaConfig.resx">
+      <DependentUpon>BaseGrigliaConfig.vb</DependentUpon>
+      <SubType>Designer</SubType>
+      <Link>BaseGrigliaConfig.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestImpProd.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestImpProd.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestImpRicPred.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestImpRicPred.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestJob.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestJob.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestNomiDos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestNomiDos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Librerie Comuni\Login.resx">
+      <DependentUpon>Login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+      <Link>Login.resx</Link>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GestNomiPreDos.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>GestNomiPreDos.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Main.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="..\..\Librerie Comuni\StatoElab.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>StatoElab.vb</DependentUpon>
+      <Link>StatoElab.resx</Link>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DataSet_Prod500.xsc">
+      <DependentUpon>DataSet_Prod500.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_Prod500.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_Prod500.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet_Prod500.xss">
+      <DependentUpon>DataSet_Prod500.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_RicPrdsg.xsc">
+      <DependentUpon>DataSet_RicPrdsg.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet_RicPrdsg.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet_RicPrdsg.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet_RicPrdsg.xss">
+      <DependentUpon>DataSet_RicPrdsg.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

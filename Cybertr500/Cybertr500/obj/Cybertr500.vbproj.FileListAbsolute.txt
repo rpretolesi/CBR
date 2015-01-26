@@ -1,0 +1,241 @@
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Debug\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Debug\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Release\Cybertr500.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Release\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Release\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\bin\Release\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestEspInSQL.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\Cybertr500.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\Cybertr500.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\Cybertr500.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Release\Cybertr500.pdb
+E:\Ricky Software\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe.config
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.exe
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.xml
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.pdb
+E:\Ricky Software\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe
+E:\Ricky Software\Cybertr500\Cybertr500\bin\Debug\Cybertr500.pdb
+E:\Ricky Software\Cybertr500\Cybertr500\bin\Debug\Cybertr500.xml
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\ResolveAssemblyReference.cache
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Main.resources
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Resources.resources
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.vbproj.GenerateResource.Cache
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpRicPred.resources
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpProd.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpProd.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpRicPred.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGriglia.resources
+E:\Ricky Software\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGriglia.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGriglia.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGrigliaConfig.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpProd.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpRicPred.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestNomiDos.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Debug\SQL Connection Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.dll
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe.config
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.pdb
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.xml
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Debug\SQL Connection Dialog.dll
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.dll
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\ResolveAssemblyReference.cache
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGriglia.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGrigliaConfig.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpProd.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpRicPred.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestNomiDos.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Main.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Resources.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.vbproj.GenerateResource.Cache
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.exe
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.xml
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestJob.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Login.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestJob.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Login.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Debug\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Debug\SQL Connection Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGriglia.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGrigliaConfig.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpProd.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpRicPred.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestJob.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestNomiDos.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Login.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Release\Cybertr500.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Release\Cybertr500.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Release\Cybertr500.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Release\Cybertr500.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Release\SQL Connection Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGriglia.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGrigliaConfig.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpProd.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpRicPred.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestJob.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestNomiDos.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Login.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\aaaDOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Release\SQL Connection Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGriglia.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGrigliaConfig.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpProd.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpRicPred.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestJob.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestNomiDos.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Login.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.pdb
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe.config
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.exe
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.xml
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.pdb
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.pdb
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.xml
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Release\SQL Connection Dialog.dll
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.Dialog.dll
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.dll
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\ResolveAssemblyReference.cache
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGriglia.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGrigliaConfig.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpProd.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpRicPred.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestJob.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestNomiDos.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Login.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Main.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Resources.resources
+E:\Ricky Software\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.vbproj.GenerateResource.Cache
+C:\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.exe.config
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.exe
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.xml
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.pdb
+C:\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.exe
+C:\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.pdb
+C:\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.xml
+C:\DOTNET\Cybertr500\Cybertr500\bin\Debug\SQL Connection Dialog.dll
+C:\DOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\DOTNET\Cybertr500\Cybertr500\bin\Debug\Microsoft.Data.ConnectionUI.dll
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\ResolveAssemblyReference.cache
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGriglia.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.BaseGrigliaConfig.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpProd.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestImpRicPred.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestJob.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.GestNomiDos.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Login.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Main.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.Resources.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Debug\Cybertr500.vbproj.GenerateResource.Cache
+C:\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe.config
+C:\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe
+C:\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.pdb
+C:\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.xml
+C:\DOTNET\Cybertr500\Cybertr500\bin\Release\SQL Connection Dialog.dll
+C:\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.dll
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\ResolveAssemblyReference.cache
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGriglia.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGrigliaConfig.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpProd.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpRicPred.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestJob.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestNomiDos.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Login.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Main.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Resources.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.vbproj.GenerateResource.Cache
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.exe
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.xml
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.pdb
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.StatoElab.resources
+C:\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestNomiPreDos.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\PlantReport.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Release\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Release\SQL Connection Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.Dialog.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Release\Microsoft.Data.ConnectionUI.dll
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGriglia.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.BaseGrigliaConfig.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpProd.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestImpRicPred.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestJob.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestNomiDos.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Login.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.GestNomiPreDos.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Main.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.Resources.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.StatoElab.resources
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Release\Cybertr500.vbproj.GenerateResource.Cache
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\bin\Debug\PlantReport.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\DOTNET\Cybertr500\Cybertr500\obj\Debug\PlantReport.pdb
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\CBR\Cybertr500\Cybertr500\bin\Release\PlantReport.exe.config
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\CBR\Cybertr500\Cybertr500\obj\Release\PlantReport.exe
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\CBR\Cybertr500\Cybertr500\obj\Release\PlantReport.xml
+C:\Documents and Settings\RPRETOLESI.CEPI\Documenti\Visual Studio 2005\Projects\CBR\Cybertr500\Cybertr500\obj\Release\PlantReport.pdb

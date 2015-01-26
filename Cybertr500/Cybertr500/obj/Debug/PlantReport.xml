@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PlantReport
+</name>
+</assembly>
+<members>
+<member name="T:Cybertr500.DataSet_RicPrdsg.RicPrdsgDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Cybertr500.DataSet_RicPrdsg.RicPrdsgRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Cybertr500.DataSet_RicPrdsg.RicPrdsgRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Cybertr500.DataSet_RicPrdsg">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Cybertr500.DataSet_RicPrdsgTableAdapters.RicPrdsgTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Cybertr500.DataSet_Prod500.Prod500DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Cybertr500.DataSet_Prod500.Prod500Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Cybertr500.DataSet_Prod500.Prod500RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Cybertr500.DataSet_Prod500">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Cybertr500.DataSet_Prod500TableAdapters.Prod500TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+</members>
+</doc>

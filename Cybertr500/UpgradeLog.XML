@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Cybertr500">
+</Property><Property Name="File di soluzione" Value="C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\CBR\Cybertr500\Cybertr500.sln">
+</Property><Property Name="Date" Value="martedì 8 ottobre 2013">
+</Property><Property Name="Time" Value="8.46">
+</Property></Properties><Event ErrorLevel="0" Project="Cybertr500" Source="Cybertr500\Cybertr500.vbproj" Description="Conversione progetto completata">
+</Event><Event ErrorLevel="3" Project="Cybertr500" Source="Cybertr500\Cybertr500.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Cybertr500.sln" Description="Soluzione convertita correttamente">
+</Event><Event ErrorLevel="3" Project="" Source="Cybertr500.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Cybertr500" Source="Cybertr500\Cybertr500.vbproj" Description="Scansione completa: aggiornamento non necessario per i file di progetto.">
+</Event></UpgradeLog>

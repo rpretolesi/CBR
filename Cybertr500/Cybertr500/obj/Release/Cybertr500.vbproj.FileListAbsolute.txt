@@ -1,0 +1,4 @@
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\CBR\Cybertr500\Cybertr500\bin\Release\PlantReport.exe.config
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\CBR\Cybertr500\Cybertr500\obj\Release\PlantReport.exe
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\CBR\Cybertr500\Cybertr500\obj\Release\PlantReport.xml
+C:\Documents and Settings\Administrator\Documenti\Visual Studio 2008\Projects\CBR\Cybertr500\Cybertr500\obj\Release\PlantReport.pdb
